@@ -16,6 +16,7 @@
     if (self) {
         _name = name;
         _priceInCents = priceInCents;
+//        NSLog(@"\n\n%@\n\n", name);
     }
     return self;
 }
